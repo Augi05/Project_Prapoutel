@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{EC7C4BA3-5593-4827-8D60-2DB0E66267DA}" SchemaVersion="89">
+	<AudioObjects>
+		<WorkUnit Name="Augi" ID="{EC7C4BA3-5593-4827-8D60-2DB0E66267DA}" PersistMode="Standalone"/>
+	</AudioObjects>
+</WwiseDocument>
